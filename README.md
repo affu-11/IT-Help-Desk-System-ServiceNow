@@ -33,12 +33,25 @@ The Application Dashboard screenshot represents the overall structure of the cus
 
 
 ### Ticket Records
+
 <img width="1912" height="968" alt="ticket_records png" src="https://github.com/user-attachments/assets/4e361f91-cb2e-4de6-ae8c-841b829d9252" />
+
+The Ticket Records screenshot displays multiple sample IT support tickets created within the application. Each ticket contains important details such as ticket number, category, priority, status, and assigned user. Categories include Hardware, Software, Network, and Access-related incidents. The records demonstrate how the system can efficiently track and manage support requests while maintaining organized incident data similar to real-world ITSM environments.
 
 ### Business Rule
 <img width="1913" height="972" alt="Business rule1 png" src="https://github.com/user-attachments/assets/e7ccdb53-91d1-45f8-983e-254b8c84ee0f" />
+
+This screenshot demonstrates the implementation of a Business Rule within the ServiceNow application
+
+
 <img width="1878" height="889" alt="Business rule2 png (2)" src="https://github.com/user-attachments/assets/77854bb0-19e0-45e2-bedd-efa7eaba2d1a" />
+
+ The Business Rule was configured to automate ticket assignment whenever the ticket priority is set to High. Using server-side automation logic, the system automatically assigns the incident to the currently logged-in administrator.
+
+ 
 <img width="1914" height="935" alt="Business rule3 png" src="https://github.com/user-attachments/assets/ced94d12-4123-4a82-8af3-52fb19ad3263" />
+
+This automation reduces manual effort and improves ticket handling efficiency in the support workflow.
 
 ### UI Policy
 <img width="1913" height="956" alt="UI Policy1 png" src="https://github.com/user-attachments/assets/335af4a3-eda0-4755-ac7a-56ec523f8667" />

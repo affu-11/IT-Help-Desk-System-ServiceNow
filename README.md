@@ -77,10 +77,24 @@ Designed a bar chart report to display ticket records based on their current sta
 2. Helps monitor pending and resolved incidents
 3. Improves incident tracking and workflow visibility
 4. Supports faster analysis of support team performance
+
+
 <img width="1913" height="976" alt="Screenshot 2026-05-08 154827" src="https://github.com/user-attachments/assets/b2a3e84c-d01a-4c3e-8705-ef7247a1fbde" />
+
+Created a donut chart report to analyze incident tickets based on their assigned priority levels, including High, Medium, and Low priorities. This report helps identify the number of critical tickets requiring immediate attention and provides a better understanding of ticket severity across the system.
+
+The report was configured by grouping records using the Priority field with aggregation set to Count. Different color segments were used to visually distinguish ticket priorities, making the report easy to interpret and analyze.
+
+
 <img width="1912" height="961" alt="Screenshot 2026-05-08 154927" src="https://github.com/user-attachments/assets/0703b25d-1d78-4b30-ac97-7081d8cd0444" />
+According to the generated report:
 
+1. Hardware tickets recorded the highest number with 4 tickets (44.44%)
+2. Access related issues accounted for 2 tickets (22.22%)
+3. Network issues also represented 2 tickets (22.22%)
+4. Software related incidents recorded 1 ticket (11.11%)
 
+The pie chart helps administrators quickly understand which category receives the highest number of incidents and allows teams to focus on frequently occurring technical issues.
 
 
 ##  Outcome

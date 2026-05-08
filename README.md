@@ -29,6 +29,9 @@ Configured UI Policies to dynamically manage form behavior based on ticket statu
 ### Application Dashboard
 <img width="1918" height="966" alt="application_dashboard png" src="https://github.com/user-attachments/assets/fde6eebe-de03-44e7-a330-d75bcc7132a5" />
 
+The Application Dashboard screenshot represents the overall structure of the custom IT Help Desk Ticketing System developed in ServiceNow. It includes different application sections such as Data, Automation, User Interface, and Security. Through this dashboard, custom tables, forms, Business Rules, UI Policies, and reports were configured to simulate a real-world IT support management workflow. This demonstrates the ability to design and manage scoped applications within the ServiceNow platform.
+
+
 ### Ticket Records
 <img width="1912" height="968" alt="ticket_records png" src="https://github.com/user-attachments/assets/4e361f91-cb2e-4de6-ae8c-841b829d9252" />
 
